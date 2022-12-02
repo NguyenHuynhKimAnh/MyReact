@@ -10,3 +10,10 @@ Bài tập môn React
 7.[Câu 15](https://codepen.io/nguyenhuynhkimanh/pen/yLEzPww)
 8.[Câu 16](https://codepen.io/nguyenhuynhkimanh/pen/abKYRBO)
 9.[Câu 17](https://codepen.io/nguyenhuynhkimanh/pen/jOKzeyX)
+10.[Câu 18](https://codepen.io/nguyenhuynhkimanh/pen/oNyPOXw)
+11.[Câu 19](https://codepen.io/nguyenhuynhkimanh/pen/qBKJMyP)
+12.[Câu 20](https://codepen.io/nguyenhuynhkimanh/pen/bGKmxjy)
+13.[Câu 21](https://codepen.io/nguyenhuynhkimanh/pen/GRGYXYY)
+##Thực hành
+1.[Bài thực hành props và state](https://codepen.io/nguyenhuynhkimanh/pen/yLEjdBm)
+2,
