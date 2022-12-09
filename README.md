@@ -15,7 +15,7 @@ Bài tập môn React
 12.[Câu 20](https://codepen.io/nguyenhuynhkimanh/pen/bGKmxjy)
 13.[Câu 21](https://codepen.io/nguyenhuynhkimanh/pen/GRGYXYY)
 ##Thực hành
-1.Bài thực hành props và state(https://codepen.io/nguyenhuynhkimanh/pen/yLEjdBm)
-2. Bài thực hành 1(https://codesandbox.io/s/bai-thuc-hanh-forked-737t6i)
-3. Bài thực hành 2(https://codesandbox.io/s/baitap-8tqqgf)
-4. Bài thực hành 3()
+1.[Bài thực hành props và state](https://codepen.io/nguyenhuynhkimanh/pen/yLEjdBm)
+2. [Bài thực hành 1](https://codesandbox.io/s/bai-thuc-hanh-forked-737t6i)
+3. [Bài thực hành 2](https://codesandbox.io/s/baitap-8tqqgf)
+4.[Bài thực hành] 3()
